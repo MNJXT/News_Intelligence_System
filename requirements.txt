@@ -1,0 +1,22 @@
+# Core
+python-dotenv
+requests
+sqlalchemy
+psycopg2-binary
+
+# Scraping
+newspaper3k
+trafilatura
+
+# AI
+openai
+
+# API
+fastapi
+uvicorn
+
+# UI
+streamlit
+
+# Utilities
+pandas

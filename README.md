@@ -1,6 +1,6 @@
 News Intelligence System
 
-An AI-powered news aggregation, classification, and summarization system built as part of the **Bynd Intelligence – AI Engineering Intern Assignment**.
+An AI-powered news aggregation, classification, and summarization system built as part of the **AI Engineering Intern Assignment**.
 ---
 
 ## Overview:
